@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg");
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  .box {
+    background-color: rgb(3, 0, 190);
+  }
+  
+  .p1,
+  .tictac,
+  .escape {
+    display: flex;
+    justify-content: center;
+  }
